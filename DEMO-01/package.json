@@ -1,0 +1,15 @@
+{
+  "name": "demo-01",
+  "version": "1.0.0",
+  "description": "读取服务器（ssh）上指定目录内文件列表及大小，并导出excel",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "node ./src/main.js test"
+  },
+  "author": "HWG",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.21.2",
+    "ssh2-sftp-client": "^9.1.0"
+  }
+}
