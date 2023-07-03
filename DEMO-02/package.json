@@ -1,0 +1,11 @@
+{
+  "name": "demo-02",
+  "version": "1.0.0",
+  "description": "读取项目目录",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "HWG",
+  "license": "ISC"
+}
