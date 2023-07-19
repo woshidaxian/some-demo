@@ -1,0 +1,14 @@
+{
+  "name": "demo-04",
+  "version": "1.0.0",
+  "description": "发送email",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "HWG",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.3"
+  }
+}
